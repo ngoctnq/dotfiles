@@ -1,0 +1,21 @@
+pane	0	0	:zsh	1	:*	0	:/Users/ngoc	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/Users/ngoc	1	zsh	:
+pane	4	0	:zsh	1	:*	0	:/Users/ngoc	0	zsh	:
+pane	4	0	:zsh	1	:*	1	:/Users/ngoc	0	irssi	:irssi
+pane	4	0	:zsh	1	:*	2	:/Users/ngoc	0	perl5.18	:
+pane	4	0	:zsh	1	:*	3	:/Users/ngoc	0	ping	:ping google.com
+pane	4	0	:zsh	1	:*	4	:/Users/ngoc/code/hackbook	1	zsh	:
+pane	4	0	:zsh	1	:*	5	:/Users/ngoc/code/hackbook	0	zsh	:
+pane	8	0	:zsh	1	:*	0	:/Users/ngoc	0	zsh	:
+pane	8	0	:zsh	1	:*	1	:/Users/ngoc	1	irssi	:irssi
+pane	8	0	:zsh	1	:*	2	:/Users/ngoc	0	perl5.18	:
+pane	8	0	:zsh	1	:*	3	:/Users/ngoc	0	ping	:ping google.com
+pane	8	0	:zsh	1	:*	4	:/Users/ngoc/code/hackbook	0	nvim	:nvim test.c
+pane	8	0	:zsh	1	:*	5	:/Users/ngoc/code/hackbook	0	zsh	:
+pane	9	0	:zsh	1	:*	0	:/Users/ngoc	1	zsh	:
+window	0	0	1	:*	b67d,100x24,0,0,0
+window	2	0	1	:*	b67f,100x24,0,0,2
+window	4	0	1	:*	56d2,100x24,0,0[100x2,0,0{42x2,0,0,28,25x2,43,0,7,13x2,69,0,48,17x2,83,0,23},100x21,0,3{52x21,0,3,17,47x21,53,3,5}]
+window	8	0	1	:*	f51a,272x84,0,0[272x30,0,0{92x30,0,0,47,91x30,93,0,51,13x30,185,0,57,73x30,199,0,52},272x53,0,31{136x53,0,31,49,135x53,137,31,50}]
+window	9	0	1	:*	db76,100x24,0,0,46
+state	8	9

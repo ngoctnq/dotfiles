@@ -1,0 +1,5 @@
+script load awl
+script load nickcolor_expando
+script load tmux-nicklist-portable
+script load nickcolor
+set neat_colors X30rRX61X6CX3CyX1DcCBX3HX2AbMX3AX42X6M
