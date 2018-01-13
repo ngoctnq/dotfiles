@@ -1,8 +1,8 @@
 sw_volume: 100
 audio_device_state:1:CoreAudio
 state: play
-current: 333
-time: 3.970000
+current: 523
+time: 4.039000
 random: 1
 repeat: 0
 single: 0

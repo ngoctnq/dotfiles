@@ -10927,3 +10927,89 @@ Jan 13 11:15 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccur
 Jan 13 11:16 : player: played "3433 Ai Otsuka - Sakuranbo/Sakuranbo - Otsuka Ai.mp3"
 Jan 13 11:17 : ffmpeg/mp3: Could not update timestamps for skipped samples.
 Jan 13 11:18 : player: played "376340 Seiryu - Critical Crystal/Critical Crystal.mp3"
+Jan 13 11:18 : client: [1] closed
+Jan 13 11:19 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 11:19 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:19 : player: played "518351 Getty vs DJ DiA - Grayed Out -Antifront-/audio.mp3"
+Jan 13 11:21 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 11:21 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:21 : client: [2] opened from 127.0.0.1:62252
+Jan 13 11:21 : player: played "595844 Linked Horizon - Shinzou o Sasageyo! [TV Size]/audio.mp3"
+Jan 13 11:22 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:24 : ffmpeg/mp3: invalid new backstep -1
+Jan 13 11:24 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:24 : client: [2] closed
+Jan 13 11:24 : player: played "588066/audio.mp3"
+Jan 13 11:24 : client: [3] opened from 127.0.0.1:51303
+Jan 13 11:26 : client: [3] closed
+Jan 13 11:26 : client: [4] opened from 127.0.0.1:54020
+Jan 13 11:27 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:28 : player: played "53002 Armin Van Buuren ft Adam Young - Youtopia/Armin Van Buuren - Youtopia.mp3"
+Jan 13 11:28 : client: [4] closed
+Jan 13 11:28 : client: [5] opened from 127.0.0.1:57226
+Jan 13 11:29 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 11:29 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:29 : client: [5] closed
+Jan 13 11:29 : client: [6] opened from 127.0.0.1:58896
+Jan 13 11:30 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:30 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:31 : client: [6] closed
+Jan 13 11:31 : client: [7] opened from 127.0.0.1:61236
+Jan 13 11:31 : client: [7] closed
+Jan 13 11:32 : client: [8] opened from 127.0.0.1:62258
+Jan 13 11:32 : client: [8] closed
+Jan 13 11:32 : client: [9] opened from 127.0.0.1:62750
+Jan 13 11:33 : client: [9] closed
+Jan 13 11:33 : client: [10] opened from 127.0.0.1:63766
+Jan 13 11:33 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:33 : client: [10] closed
+Jan 13 11:33 : player: played "329497 UNDEAD CORPORATION - karakurenawi/UNDEAD+CORPORATION-++feat..mp3"
+Jan 13 11:33 : client: [11] opened from 127.0.0.1:64541
+Jan 13 11:34 : client: [11] closed
+Jan 13 11:34 : client: [12] opened from 127.0.0.1:65261
+Jan 13 11:34 : client: [12] closed
+Jan 13 11:34 : client: [13] opened from 127.0.0.1:50217
+Jan 13 11:35 : client: [13] closed
+Jan 13 11:35 : client: [14] opened from 127.0.0.1:50815
+Jan 13 11:36 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:36 : player: played "26244 Hatsune Miku - SYMPHONIC DIVE (DIVA edit)/SYMPHONIC DIVE (DIVA edit).mp3"
+Jan 13 11:37 : client: [14] closed
+Jan 13 11:37 : client: [15] opened from 127.0.0.1:53829
+Jan 13 11:37 : client: [15] closed
+Jan 13 11:37 : client: [16] opened from 127.0.0.1:54152
+Jan 13 11:37 : client: [16] closed
+Jan 13 11:37 : client: [17] opened from 127.0.0.1:54691
+Jan 13 11:37 : client: [17] closed
+Jan 13 11:37 : client: [18] opened from 127.0.0.1:54860
+Jan 13 11:38 : client: [19] opened from 127.0.0.1:55932
+Jan 13 11:38 : client: [19] closed
+Jan 13 11:39 : player: played "325566 nora2r - VISION/04 - VISION.mp3"
+Jan 13 11:40 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:41 : player: played "482617 t+pazolite - Tomorrow Perfume (tpz Despair Remix)/audio.mp3"
+Jan 13 11:44 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:44 : player: played "462386 Foreground Eclipse - From Under Cover (Caught Up In A Love Song)/fge.mp3"
+Jan 13 11:48 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:48 : player: played "561073 M-TP - Lac Troi/audio (2).mp3"
+Jan 13 11:48 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:48 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:50 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 11:50 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:51 : player: played "72474 Various Artist - Long Stream Practice Maps/axion.mp3"
+Jan 13 11:51 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:51 : ffmpeg/mp3: overread, skip -5 enddists: -4 -4
+Jan 13 11:51 : ffmpeg/mp3: overread, skip -6 enddists: -4 -4
+Jan 13 11:51 : ffmpeg/mp3: overread, skip -6 enddists: -5 -5
+Jan 13 11:51 : ffmpeg/mp3: overread, skip -6 enddists: -5 -5
+Jan 13 11:51 : ffmpeg/mp3: overread, skip -6 enddists: -5 -5
+Jan 13 11:51 : ffmpeg/mp3: overread, skip -6 enddists: -5 -5
+Jan 13 11:51 : ffmpeg/mp3: overread, skip -7 enddists: -6 -6
+Jan 13 11:52 : ffmpeg/mp3: overread, skip -5 enddists: -4 -4
+Jan 13 11:52 : ffmpeg/mp3: overread, skip -4 enddists: -1 -1
+Jan 13 11:52 : ffmpeg/mp3: overread, skip -5 enddists: -3 -3
+Jan 13 11:52 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 11:53 : player: played "573298 BlackY vs Yooh - Happy Voice/BlackY vs. Yooh - Happy Voice.mp3"
+Jan 13 11:55 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 11:55 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:55 : player: played "163808 Various Nightcore - Jump Training #2/Cambodia.mp3"
+Jan 13 11:58 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 11:58 : player: played "478451 WALKUERE - Ikenai Borderline/Ikenai Borderline.mp3"
