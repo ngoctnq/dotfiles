@@ -11013,3 +11013,141 @@ Jan 13 11:55 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccur
 Jan 13 11:55 : player: played "163808 Various Nightcore - Jump Training #2/Cambodia.mp3"
 Jan 13 11:58 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
 Jan 13 11:58 : player: played "478451 WALKUERE - Ikenai Borderline/Ikenai Borderline.mp3"
+Jan 13 11:59 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:00 : player: played "516638 Suzuki Konomi - Redo/audio.mp3"
+Jan 13 12:01 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 12:01 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:01 : player: played "553119 Culprate - Diablo (VIP)/audio.mp3"
+Jan 13 12:03 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:04 : player: played "376832 Hommarju - Warriors (short Ver)/Warriors.mp3"
+Jan 13 12:06 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:07 : player: played "421497 lapix - NEO GRAVITY/audio.mp3"
+Jan 13 12:10 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:10 : player: played "45160 Megpoid GUMI & Kagamine Rin - Invisible/Invisible.mp3"
+Jan 13 12:12 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:12 : player: played "63089 fripSide - only my railgun (TV Size)/bgm-4hd.mp3"
+Jan 13 12:12 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:14 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:14 : player: played "574578 kamome sano Electric Orchestra - HE4VEN ~Tengoku e Youkoso~/audio.mp3"
+Jan 13 12:17 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:17 : player: played "24163 Pendulum - The Vulture/The Vulture[cut].mp3"
+Jan 13 12:19 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 12:19 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:19 : player: played "476394 Rche - entelecheia/audio.mp3"
+Jan 13 12:21 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:21 : player: played "506110 P_Light - Storm Buster/PxLight - Storm Buster.mp3"
+Jan 13 12:22 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 12:22 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:22 : player: played "112675 Pet na Kanojotachi - Kimi ga Yume wo Tsuretekita (TV Size)/Kimi ga Yume wo Tsuretekita.mp3"
+Jan 13 12:25 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:25 : player: played "25707 ATC - Around The World (Nightcore Mix)/ATC - Around The World (Nightcore Mix).mp3"
+Jan 13 12:27 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 12:27 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:28 : player: played "403612 Tarpey - Close Call/Tarpey - Close Call.mp3"
+Jan 13 12:45 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 12:45 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:47 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 12:47 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:47 : player: played "252357 Memme - Chinese Restaurant/Chinese Restaurant - Memme [Pump it up Prime 2015]HQ.mp3"
+Jan 13 12:50 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 12:50 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:51 : player: played "296291 Mad Clown - Fire (feat Jinsil)/fire.mp3"
+Jan 13 12:53 : client: [18] closed
+Jan 13 12:54 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 12:54 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 12:54 : player: played "389365 Various Artists - Jump Training/aero_chord_-_boundless-lMS01qQ7WS0_fmt22-4160975454.mp3"
+Jan 13 12:57 : client: [20] opened from 127.0.0.1:54839
+Jan 13 13:00 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 13:00 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:01 : player: played "79498 Infected Mushroom - The Pretender/The Pretender.mp3"
+Jan 13 13:03 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 13:04 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:04 : player: played "73185 PESS vs tATu - All The Things She Said (DnB Remix)/Black Impulse AMV.mp3"
+Jan 13 13:04 : player: played "147152 ensou feat GUMI - COMA/comaensou.mp3"
+Jan 13 13:05 : config: inotify: auto_update was disabled. enable during compilation phase
+Jan 13 13:05 : config: option 'enabled' on line 27 was not recognized
+Jan 13 13:05 : client: [0] opened from 127.0.0.1:50107
+Jan 13 13:06 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:08 : player: played "462896 Suzuki Konomi - This game/audio.mp3"
+Jan 13 13:08 : config: inotify: auto_update was disabled. enable during compilation phase
+Jan 13 13:08 : config: option 'enabled' on line 28 was not recognized
+Jan 13 13:08 : client: [0] opened from 127.0.0.1:54073
+Jan 13 13:08 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:10 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:14 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:14 : player: played "452385 Lovelyz - Destiny/audio.mp3"
+Jan 13 13:16 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 13:16 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:17 : player: played "163808 Various Nightcore - Jump Training #2/Nightcore - Just 4 you.mp3"
+Jan 13 13:17 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:17 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:17 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:17 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:18 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 13:19 : player: played "530756 Kuroneko Dungeon - Lilieze to Enryuu Laevateinn/audio.mp3"
+Jan 13 13:21 : player: played "395250 REDALiCE - Masakari Blade/blade.mp3"
+Jan 13 13:21 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:21 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:21 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:24 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:24 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:24 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:24 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:24 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:25 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:25 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:25 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:25 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:25 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:26 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:26 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:26 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:26 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:26 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:26 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:26 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:28 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:29 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:34 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:35 : player: played "432822 NOMA - Brain Power Long Version/audio.mp3"
+Jan 13 13:36 : ffmpeg/mp3: Could not update timestamps for discarded samples.
+Jan 13 13:36 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:36 : player: played "Anh Cu Di Di/audio.mp3"
+Jan 13 13:38 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:40 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:41 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:41 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:41 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:41 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:41 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:43 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:43 : player: played "184498 Yooh - Shanghai Kouchakan - Chinese Tea Orchid Remix/Remix.mp3"
+Jan 13 13:44 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:44 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:44 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:45 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:45 : player: played "9430 Hanazawa Kana - Renai Circulation/Love Circulation.mp3"
+Jan 13 13:45 : ffmpeg/mp3: Estimating duration from bitrate, this may be inaccurate
+Jan 13 13:45 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:45 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:45 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:45 : ffmpeg/mp3: Could not update timestamps for skipped samples.
+Jan 13 13:45 : ffmpeg/mp3: Could not update timestamps for skipped samples.
