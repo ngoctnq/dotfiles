@@ -88,4 +88,4 @@ alias hibernatenow="sudo ~/code/hibernatenow"
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 eval "$(thefuck --alias)"
 
-clear ; screenfetch -E -A "Arch Linux" ; echo
+clear ; echo ; screenfetch -E -A "Arch Linux" ; echo

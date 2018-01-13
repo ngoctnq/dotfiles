@@ -1,0 +1,29 @@
+sw_volume: 92
+audio_device_state:1:CoreAudio
+state: play
+current: 14
+time: 3.784000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:476394 Rche - entelecheia/kickdrum2.wav
+1:476394 Rche - entelecheia/kickdrum1.wav
+2:334363 Qrispy Joybox - Ascalon/0002.wav
+3:264977 COOL&CREATE - Saishoukichiku Imouto Flandre S/-------------.mp3
+4:334363 Qrispy Joybox - Ascalon/0008.wav
+5:424754/000R.wav
+6:28705 Yousei Teikoku - Kokou no Sousei/03 - Kokou no Sousei.mp3
+7:103550 Leon Lai - Zhong Ai Qing You (Speed up Version)/short22.mp3
+8:476394 Rche - entelecheia/soft-hitclap.wav
+9:334363 Qrispy Joybox - Ascalon/0005.wav
+10:334363 Qrispy Joybox - Ascalon/0004.wav
+11:476394 Rche - entelecheia/kickdrum4.wav
+12:334363 Qrispy Joybox - Ascalon/000D.wav
+13:127789 Mimori Suzuko - Univer Page (TV Size)/FLS Crash 01a.wav
+14:100019 Owl City & Carly Rae Jepsen - Good Time/Good Time.mp3
+playlist_end
